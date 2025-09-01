@@ -32,16 +32,16 @@ Follow the prompts:
 
 create-bmd auto-detects common Steam install paths on Windows:
 
-- C:\\Program Files (x86)\\Steam\\steamapps\\common\\Bot Maker For Discord
-- C:\\Program Files\\Steam\\steamapps\\common\\Bot Maker For Discord
+- `C:\Program Files (x86)\Steam\steamapps\common\Bot Maker For Discord`
+- `C:\Program Files\Steam\steamapps\common\Bot Maker For Discord`
 
 If BMD isn’t found, the CLI will show an error. You can set the path manually in the config file:
 
 Config file location by OS:
 
-- Windows: %APPDATA%\create-bmd\config.json
-- macOS: ~/Library/Application Support/create-bmd/config.json
-- Linux: ~/.config/create-bmd/config.json
+- Windows: `%APPDATA%\create-bmd\config.json`
+- macOS: `~/Library/Application Support/create-bmd/config.json`
+- Linux: `~/.config/create-bmd/config.json`
 
 Example config.json:
 
