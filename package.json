@@ -1,0 +1,22 @@
+{
+  "name": "create-bmd",
+  "version": "1.1.1",
+  "bin": {
+    "create-bmd": "bin/index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "bmd",
+    "cli",
+    "create-bmd",
+    "bmd-cli",
+    "bot maker for discord"
+  ],
+  "author": "qizzle",
+  "license": "MIT",
+  "description": "Quick-start the development of a *Bot Maker For Discord* mod.",
+  "dependencies": {
+    "chalk": "^5.6.0",
+    "inquirer": "^12.9.3"
+  }
+}
